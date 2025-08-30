@@ -1,2 +1,3 @@
 I Troy Muehlbauer, hereby declare that I am all set to write c++ code
 for linux (or mac-unix) and push the code to GitHub from my command line.
+
